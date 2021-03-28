@@ -24,4 +24,7 @@ We've applied the **people, objective, process, data** framework for the NBA and
 - Correlation between various physical attributes to performance
 
 **TODO** Here are our analysis
+
 ![Analysis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPgqodCcyn0S38KtpE-jPlxX74gwLa_FoE25WY_0Ln6j0qRtu5jiJa4VkzkMWnPQnJvQM&usqp=CAU)
+
+![Analysis](https://miro.medium.com/max/3924/1*XbHtGxf4QJedgwsvNgRbQw.png)

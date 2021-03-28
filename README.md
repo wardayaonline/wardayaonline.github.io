@@ -7,7 +7,11 @@ A person coding (not me)
 
 Check out my work [here](https://wardayaonline.github.io/assignment)
 
-Personal projects:
-- Data analysis for NBA player based on this [kaggle dataset]()
-- Built a rocket ship 🚀
+### Experience
 
+Data analysis for NBA player - *Los Angeles, USA (May 2020 - Sep 2020)
+- Data analysis for NBA player based on this [kaggle dataset](https://www.kaggle.com/nathanlauga/nba-games)
+- Complete discussion [here](https://wardayaonline.github.io/assignment)
+
+Internship at NASA 🚀
+- Data processing for time travel

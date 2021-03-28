@@ -10,8 +10,9 @@ Check out my work [here](https://wardayaonline.github.io/assignment)
 ### Experience
 
 #### Data analysis for NBA player - *Los Angeles, USA (May 2020 - Sep 2020)
-- Data analysis for NBA player based on this [kaggle dataset](https://www.kaggle.com/nathanlauga/nba-games)
+- Data analysis for NBA player based on this [kaggle dataset](https://www.kaggle.com/nathanlauga/nba-games), suggesting ways to improve an NBA player's endorsement
+- Leveraged Numpy, Matplotlib, and Pandas
 - Complete discussion [here](https://wardayaonline.github.io/assignment)
 
-#### Internship at NASA 🚀
-- Data processing for time travel
+#### Internship at NASA 🚀 - *Washington, USA (May 2020 - Sep 2020)
+- Data processing for time travel using Tensorflow & PyTorch

@@ -5,8 +5,6 @@ A person coding (not me)
 
 ### I'm a 12th grade student at Wardaya College, looking for opportunities to process any of your data
 
-Check out my work [here](https://wardayaonline.github.io/assignment)
-
 ### Experience
 
 #### Data analysis for NBA player - *Los Angeles, USA (May 2020 - Sep 2020)*
